@@ -30,6 +30,7 @@ Transformed Table
 Digitately Drive  (https://docs.google.com/spreadsheets/d/1nbhfp2ModgqDAPveYQG9CknRw2PYJQxbOTs3xSKOB8E/edit#gid=61186505)
 
 ### Data Modelling
+
 Model View
 :---------------:
 ![](Model.png)
@@ -38,6 +39,7 @@ This model has just one fact table with 10 columns
 ### Visualisation 
 
 1. Visualisation
+   
 ![](Visualisation.png)
 
 The visuals report comprise of slicers, text box, bar charts;
