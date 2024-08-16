@@ -1,4 +1,4 @@
-# Capstone 4
+# Capstone Project 4
 
 ## Employee Survey
 
